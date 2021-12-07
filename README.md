@@ -10,8 +10,6 @@ After the training model performance wil be send as a reply to the commit and to
 
 ### Model Performance details as a comment <br/>
 <img src="https://github.com/oshi36/ml-ops-cml/blob/main/plot.png" width="500" height="500">
-<br/>
-<br/>
 
 ### Model Performance details in an Email <br/>
 <img src="https://github.com/oshi36/ml-ops-cml/blob/main/email_image_updated.jpg" width="500" height="500">
